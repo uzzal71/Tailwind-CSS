@@ -1,6 +1,14 @@
 # Tailwind-CSS
 ## 01 Introduction | Tailwind CSS
 ## 02 Tailwind Installation 
+Tailwind Installation & Editor Setup
+Three type Instllation process in tailwind css
+1. Install from CDN
+2. Install as PostCSS Plugin
+3. Install Tailwind CLI
+
+Here, Tailwind CSS Install With CLI
+
 - npm init -y
 - npm i -D tailwindcss
 - VS Code Install -> Tailwind CSS IntelliSense
@@ -57,5 +65,5 @@ When Run This Command output/tailwind.css file generated. This tailwind.css file
 <link rel="stylesheet" href="./output/tailwind.css" />
 ```
 
-# 03 Utility-First Approach | Tailwind CSS 
+## 03 Utility-First Approach | Tailwind CSS 
 Tailwind Utility-First Design Approach | tailwindcss
