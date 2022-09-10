@@ -67,3 +67,5 @@ When Run This Command output/tailwind.css file generated. This tailwind.css file
 
 ## 03 Utility-First Approach | Tailwind CSS 
 Tailwind Utility-First Design Approach | tailwindcss
+
+## 04 Responsive variants - Tailwind Breakpoints | Tailwind CSS 
