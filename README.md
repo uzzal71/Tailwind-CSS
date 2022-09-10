@@ -47,4 +47,15 @@ Create a build script & open package.json file
 }
 ```
 
+Run Build Command In Your Terminal
+```
 npm run build
+```
+
+When Run This Command output/tailwind.css file generated. This tailwind.css file linkup index.html file.
+```
+<link rel="stylesheet" href="./output/tailwind.css" />
+```
+
+# 03 Utility-First Approach | Tailwind CSS 
+Tailwind Utility-First Design Approach | tailwindcss
